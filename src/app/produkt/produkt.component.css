@@ -1,4 +1,8 @@
 table, td, th {
     border: 1px solid;
     border-collapse: collapse;
+    width: 100%;
+}
+.promocja {
+    border-color: red;
 }
